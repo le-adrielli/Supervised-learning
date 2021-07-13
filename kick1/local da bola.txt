@@ -1,0 +1,8 @@
+Com alpha = 0,001 - A posição da bola quando ela for atingir o gol (y=0) será x = 0.60 e z = 0.41
+Com alpha = 0,01 - A posição da bola quando ela for atingir o gol (y=0) será x = -0.94 e z = 0.20
+Com alpha = 0,1 - A posição da bola quando ela for atingir o gol (y=0) será x = -0.98 e z = 0.39
+Com alpha = 0,7 - A posição da bola quando ela for atingir o gol (y=0) será x = -1.89 e z = 0.20
+Com alpha = 0,001 - A posição da bola quando ela for atingir o gol (y=0) será x = 0.83 e z = 0.52
+Com alpha = 0,01 - A posição da bola quando ela for atingir o gol (y=0) será x = 0.13 e z = 0.14
+Com alpha = 0,1 - A posição da bola quando ela for atingir o gol (y=0) será x = 0.08 e z = 0.40
+Com alpha = 0,7 - A posição da bola quando ela for atingir o gol (y=0) será x = 0.03 e z = 0.42
